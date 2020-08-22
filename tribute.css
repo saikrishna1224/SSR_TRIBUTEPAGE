@@ -1,0 +1,44 @@
+h1{
+    font-size: 2rem;
+        color: honeydew;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-align: center;
+}
+#img-div{
+    border-image: round;
+    margin:auto;
+    padding: 40px 10%;
+    background-color:black;
+        color:honeydew;
+    text-align: right;
+    font-size: 1.15rem;
+}
+p{
+    text-align: left;
+    font-size: 1.25rem;
+     color:grey;
+    background-color: black;
+
+}
+h5{
+    text-align: center;
+    color:honeydew;
+    text-transform: uppercase;
+    font-size:1.0rem;
+}
+#list{
+    text-align: left;
+    color: grey;
+    background-color:black;
+    font-size: 1.0rem;
+
+}
+h6{
+    font-size:1.0rem;
+    color:grey;
+    text-transform: uppercase;
+}
+body{
+    background: black;
+}
